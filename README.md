@@ -1,16 +1,16 @@
 ## Become A Job Ready React Developer
 
-***React is a free, open-source front-end JavaScript library for building user interfaces based on UI components , developed by Facebook and released in 2013. It’s Safe to say that React has been one of the most influential UI library of recent memory. We use it to build Components that represents logical reusable parts of the UI. React can be used as a foundation for developing single-page, mobile, or server-rendered applications.***
+***React is a free, open-source front-end JavaScript library for building user interfaces based on UI components , developed by Facebook and released in 2013. It’s Safe to say that React has been one of the most influential UI library of recent memory. We use it to build Components that represent logical reusable parts of the UI. React can be used as a foundation for developing single-page, mobile, or server-rendered applications.***
   
 **Average Salary of React Developer is :- $ 130,000 USD**
   
   
-**Prerequisites :- You should be familiar with HTML, CSS, & JavaScript**
+**Prerequisites :- You should be familiar with HTML, CSS, & JavaScript.**
   
   
 ### Following is the list of Resources you need to Become a React Developer :-
 
-| Sno. |  Course Name | Description | Duration | Effort |  Frequency | Prerequisites | 
+| S. No. |  Course Name | Description | Duration | Effort |  Frequency | Prerequisites | 
 | ----    |  ----                  | ----               |  ----          | ----      | ----                |---- |
 | 1. | **[React Course For Beginners - Learn React in 8 Hours](https://www.youtube.com/watch?v=f55qeKGgB_M&list=PLpPqplz6dKxW5ZfERUPoYTtNUNvrEebAR&index=19)** | This course will teach you everything you need to know as a Beginner in react, to being able to create big projects on your own. | 1 Week | 8 - 10 hrs / Week | Self Paced | Basic Understanding of HTML, CSS & JavaScript |
 | 2. | **[React Hooks](https://youtube.com/playlist?list=PLC3y8-rFHvwisvxhZ135pogtX7_Oe3Q3A)** | Hooks are a new addition in React 16.8. They let you use state and other React features without writing a class. | 3 Days | 2 hrs / Day | Self Paced |  Basics of React, Functional & Class Components , props, state, etc |
